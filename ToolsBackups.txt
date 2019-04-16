@@ -1,0 +1,32 @@
+apache tomcat 9
+
+apache maven 3.6.0
+
+servlet 3.0
+
+spring boot cli
+
+anaconda3
+
+nodejs10
+
+GNU octave 
+
+onlyoffice
+
+vscode 
+
+theme conda
+
+chrome 
+
+skype 
+
+codeblock 
+
+intelliJ Idea
+
+SDL Graphic 
+
+SDL_Image
+
